@@ -1,5 +1,5 @@
 <div align="center">
-  <img style= "heigth:50px" src="github/finapi.png" alt="Api logo">
+  <img src="github/finapi.png" alt="Api logo">
 </div>
 
 ## FinAPI
@@ -12,7 +12,7 @@
 
 <div align="center">
   <br />
-  <img src="github/nodejs.png" alt="Technologies used" style= "heigth: 20rem">
+  <img src="github/nodejs.png" alt="Technologies used">
 </div>
 
 - [Nodejs](https://nodejs.org/)
