@@ -1,5 +1,5 @@
 <div align="center">
-  <img style= "heigth:20rem;" src="github/finapi.png" alt="Api logo">
+  <img style= "heigth:50px;" src="github/finapi.png" alt="Api logo">
 </div>
 
 ## FinAPI
