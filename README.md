@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github/finapi.png" alt="Podcastr logo">
+  <img src="github/finapi.png" alt="Podcastr logo" styles {heigth: "10rem"}>
 </div>
 
 ## FinAPI
